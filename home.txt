@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is test file
+=======
+File added from github
+>>>>>>> a946a35d514d549a18d03c700f66821eb7e27977
